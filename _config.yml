@@ -1,1 +1,3 @@
-theme: jekyll-theme-minimal
+#build settings
+
+remote_theme: broccolini/swiss
