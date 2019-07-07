@@ -1,7 +1,8 @@
 #build settings
 
-remote_theme: broccolini/swiss
-theme_color: white
+theme: jekyll-athena
+# remote_theme: broccolini/swiss
+#theme_color: black
 markdown: kramdown
 
 #personal settings
