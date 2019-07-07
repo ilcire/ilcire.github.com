@@ -2,7 +2,7 @@
 
 theme: jekyll-athena
 # remote_theme: broccolini/swiss
-#theme_color: black
+#theme_color: dark
 markdown: kramdown
 
 #personal settings
@@ -11,6 +11,7 @@ description: Mathematics Student at Carnegie Mellon University
 github_username: ericli
 linkedin_profile: lieric2
 email: ericl2@andrew.cmu.edu
-url: "lieric.com"
+url: "http://lieric.com"
+
 
 
