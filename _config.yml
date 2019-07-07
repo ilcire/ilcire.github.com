@@ -1,6 +1,6 @@
 #build settings
 
-theme: jekyll-athena
+#theme: jekyll-athena
 # remote_theme: broccolini/swiss
 #theme_color: dark
 markdown: kramdown
