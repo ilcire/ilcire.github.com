@@ -7,7 +7,7 @@ input, select, textarea, button { font-family: inherit; font-size: inherit; line
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font-family: Athelas, Palatino, Georgia, serif; font-size: 16px; line-height: 1.5; color: #fff; background-color: #2B2826; }
+body { font-family: Athelas, Palatino, Georgia, serif; font-size: 16px; line-height: 1.5; color: #fff; background-color: #232127; }
 
 p { margin-top: 0; margin-bottom: 0.5em; }
 
@@ -86,7 +86,7 @@ code { color: #D7D5D1; font-size: 16px; padding: 1px 4px; }
 .border-0 { border: 0; }
 
 /* Theme color utilities */
-.header-background { background-color: #2B2826; }
+.header-background { background-color: #232127; }
 
 .header-border { border-color: #fff; }
 
