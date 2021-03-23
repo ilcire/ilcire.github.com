@@ -1,1 +1,0 @@
-const board = Xiangqiboard('myBoard', 'start');

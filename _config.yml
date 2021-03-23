@@ -1,13 +1,11 @@
-#build settings
-
-#theme: jekyll-athena
-markdown: kramdown
-
-#personal settings
 title: Eric Li
 description: Mathematics Student at Carnegie Mellon University
+email: ericl2@andrew.cmu.edu
+
 github_username: ericli
 linkedin_profile: lieric2
 email: ericl2@andrew.cmu.edu
 url: "https://lieric.com"
-theme_color: dark
+
+markdown: kramdown
+
