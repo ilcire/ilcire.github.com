@@ -339,8 +339,8 @@ table {
       -ms-overflow-style: -ms-autohiding-scrollbar; } }
 
 .portrait {
-  width: 110px;
-  height: 110px;
+  width: 128px;
+  height: 128px;
   display: inline-block;
   padding: 0px 30px 0px 0px;
   vertical-align: text-top;
